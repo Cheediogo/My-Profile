@@ -105,9 +105,15 @@ body{
     color: bisque;
     padding: 15px 40px;
     font-size: 24px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: bisque;
 }
 .button-section button:hover {
     background-color: white
+}
+.text-hover:hover{
+    color: black;
 }
 
 .bold-sec{
